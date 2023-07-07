@@ -1,1 +1,9 @@
-
+Electric motors with promising features such as high torque capability, low cost, fault tolerance, reasonable power factor, modularity, etc. can be easily
+integrated into the structure of electric vehicles. Various electric motors can provide such criteria for vehicle manufacturers. One of them is the switch
+reluctance motor about which many recent research studies talked. Although the switch reluctance motor (SRM) is a reputable candidate for transportation 
+applications, one should be careful about the annoying torque ripple in these motors. In the context of machine design, various methods have been implemented
+to palliate the cogging torque and torque ripple of SRMs. These strategies usually consider either drive or machine design to tackle the torque ripple problem.
+The drive tackling is very straightforward and the basic is to inject the required harmonic to face the torque ripple-producing forces. Therefore, it's 
+applicable after the machine design has finished and the machine is ready for test in the laboratory. Without an appropriate drive, the designer would not be
+able to improve the performance. On the other hand, the machine design strategy, also utilized in this project, is implemented in the machine design procedure.
+The user would be able to drive the motor without any further consideration. Therefore, the cost of implementation of this method is much less than the first one.
