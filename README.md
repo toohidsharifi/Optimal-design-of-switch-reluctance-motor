@@ -16,5 +16,14 @@ For this reason, the number of turns is the fifth decision variable of this prob
 value. However, here we want to analyze the relationship between that and the torque ripple of the motor.
 So, for decision variables,
   
-![image](https://github.com/toohidsharifi/Optimal-design-of-switch-reluctance-motor/assets/126771405/a8927955-2d3e-4c5b-aaf4-3e5b99bc9315)
+4<x_1<10 ⇒ "Outer width of rotor tooth "("deg")
 
+5<x_2<13 ⇒ "Inner width of rotor tooth "("deg")
+
+3<x_3<5 ⇒ "Inner width of stator tooth "("deg")
+
+3<x_4<5.5 ⇒ "Outer width of stator tooth "("deg")
+
+40<x_5<60 ⇒ "Number of turns" 
+
+![image](https://github.com/toohidsharifi/Optimal-design-of-switch-reluctance-motor/assets/126771405/50055404-fbef-4ed4-8f50-2055229e40b7)
