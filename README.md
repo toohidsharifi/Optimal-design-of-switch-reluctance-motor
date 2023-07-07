@@ -1,4 +1,18 @@
 # Optimal-design-of-switch-reluctance-motor
+![Optimal Motor](https://github.com/toohidsharifi/Optimal-design-of-switch-reluctance-motor/assets/126771405/494e3e56-1411-480b-a66d-7e1c8723dcef)
+
+Electric motors with promising features such as high torque capability, low cost, fault tolerance, reasonable power factor, modularity, etc. can be easily
+integrated into the structure of electric vehicles. Various electric motors can provide such criteria for vehicle manufacturers. One of them is the switch
+reluctance motor about which many recent research studies talked. Although the switch reluctance motor (SRM) is a reputable candidate for transportation 
+applications, one should be careful about the annoying torque ripple in these motors. In the context of machine design, various methods have been implemented
+to palliate the cogging torque and torque ripple of SRMs. These strategies usually consider either drive or machine design to tackle the torque ripple problem.
+The drive tackling is very straightforward and the basic is to inject the required harmonic to face the torque ripple-producing forces. Therefore, it's 
+applicable after the machine design has finished and the machine is ready for test in the laboratory. Without an appropriate drive, the designer would not be
+able to improve the performance. On the other hand, the machine design strategy, also utilized in this project, is implemented in the machine design procedure.
+The user would be able to drive the motor without any further consideration. Therefore, the cost of implementation of this method is much less than the first one.
+
+![images](https://github.com/toohidsharifi/Optimal-design-of-switch-reluctance-motor/assets/126771405/e31763b4-70ca-4fe9-ba40-373ec0a90a51)
+
 Torque Ripple Minimization for a Switch Reluctance Motor Using the Ant Lion Optimization Algorithm
 High torque density is a significant criterion for electric vehicle applications. In the context of torque performance, firstly, the average torque of the motor
 should be improved, and, secondly, the torque ripple of the machine must be at a satisfactory level. Switch reluctance motors (SRMs), as an alternative, pass the
@@ -11,6 +25,8 @@ For the SRM proposed in the previous section, we want to optimize (minimize) the
 (average torque) of the motor. We assign five decision variables to the optimization problem. The first and second are the outer and inner widths of the rotor
 tooth. We assign the third and fourth ones to the stator tooth width. In addition to the torque ripple minimization, we want to find a relation between the 
 number of turns and torque ripple.
+
+![Matlab ANSYS](https://github.com/toohidsharifi/Optimal-design-of-switch-reluctance-motor/assets/126771405/a8316f1d-9824-412d-8046-fd5a2d3e01da)
 
 For this reason, the number of turns is the fifth decision variable of this problem. Actually, in the motor design problem, the number of turns is a constant 
 value. However, here we want to analyze the relationship between that and the torque ripple of the motor.
