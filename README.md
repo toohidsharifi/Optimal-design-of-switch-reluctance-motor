@@ -26,4 +26,3 @@ So, for decision variables,
 
 40<x_5<60 ⇒ "Number of turns" 
 
-![image](https://github.com/toohidsharifi/Optimal-design-of-switch-reluctance-motor/assets/126771405/50055404-fbef-4ed4-8f50-2055229e40b7)
