@@ -13,7 +13,6 @@ The user would be able to drive the motor without any further consideration. The
 
 ![images](https://github.com/toohidsharifi/Optimal-design-of-switch-reluctance-motor/assets/126771405/e31763b4-70ca-4fe9-ba40-373ec0a90a51)
 ![images](https://github.com/toohidsharifi/Optimal-design-of-switch-reluctance-motor/assets/126771405/c8ba7681-1525-4bff-9313-baaa1bacdd5f)
-![download](https://github.com/toohidsharifi/Optimal-design-of-switch-reluctance-motor/assets/126771405/e7deb0f6-bb8e-421b-998e-fdb5656a04b7)
 
 Torque Ripple Minimization for a Switch Reluctance Motor Using the Ant Lion Optimization Algorithm
 High torque density is a significant criterion for electric vehicle applications. In the context of torque performance, firstly, the average torque of the motor
