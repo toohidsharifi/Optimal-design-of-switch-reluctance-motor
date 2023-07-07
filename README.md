@@ -22,12 +22,14 @@ most of them are related to structural techniques. However, these methods cannot
 motor with 18 stator poles and 12 rotor poles (18/12) has been introduced, designed to be used in electric vehicles. The torque ripple of the motor is optimized
 using the Ant Lion Optimization (ALO) algorithm, which is a metaheuristic approach, and the result of the optimization problem is compared with the initial machine. 
 
+![Untitled](https://github.com/toohidsharifi/Optimal-design-of-switch-reluctance-motor/assets/126771405/6845a8b9-24fe-433c-a1bd-2608d11b3ddc)
+
 For the SRM proposed in the previous section, we want to optimize (minimize) the torque ripple of the motor. Here, it is essential to save the torque capability
 (average torque) of the motor. We assign five decision variables to the optimization problem. The first and second are the outer and inner widths of the rotor
 tooth. We assign the third and fourth ones to the stator tooth width. In addition to the torque ripple minimization, we want to find a relation between the 
 number of turns and torque ripple.
 
-![Matlab ANSYS](https://github.com/toohidsharifi/Optimal-design-of-switch-reluctance-motor/assets/126771405/a8316f1d-9824-412d-8046-fd5a2d3e01da)
+![Untitled 2](https://github.com/toohidsharifi/Optimal-design-of-switch-reluctance-motor/assets/126771405/91618fdd-a8b3-49b8-97e0-712a2142e3d5)
 
 For this reason, the number of turns is the fifth decision variable of this problem. Actually, in the motor design problem, the number of turns is a constant 
 value. However, here we want to analyze the relationship between that and the torque ripple of the motor.
